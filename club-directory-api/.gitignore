@@ -1,0 +1,13 @@
+/venv
+api/.env
+./output.json
+/.venv
+
+api/__pycache__
+
+/myenv
+
+__pycache__/
+
+./output.json
+/videos
